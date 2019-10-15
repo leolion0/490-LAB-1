@@ -1,0 +1,1 @@
+Write a program to find a longest substring without repeating characters from a given string input from the console.
