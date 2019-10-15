@@ -6,6 +6,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import GaussianNB
 from sklearn import svm, neighbors
 
+#https://stackoverflow.com/a/38105540
+
+
+
 # save load_iris() sklearn dataset to iris
 # if you'd like to check dataset type use: type(load_iris())
 # if you'd like to view list of attributes use: dir(load_iris())
